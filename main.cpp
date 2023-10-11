@@ -32,7 +32,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		/// ↓描画処理ここから
 		///
-		Novice::ScreenPrintf(20, 20, "aaa");
+		Novice::ScreenPrintf(20, 20, "aaaa");
 		///
 		/// ↑描画処理ここまで
 		///
