@@ -36,7 +36,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		Novice::ScreenPrintf(20, 40, "2023.10.11");
 
-		Novice::ScreenPrintf(20, 60, "pullして");
+		Novice::ScreenPrintf(20, 60, "マージしません");
 		///
 		/// ↑描画処理ここまで
 		///
