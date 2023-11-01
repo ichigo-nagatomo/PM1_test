@@ -38,6 +38,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 
 		Novice::ScreenPrintf(20, 60, "マージお願いします");
+
+		Novice::ScreenPrintf(20, 80, "プルせずに作業");
     
 		///
 		/// ↑描画処理ここまで
