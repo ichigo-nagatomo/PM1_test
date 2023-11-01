@@ -36,10 +36,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		Novice::ScreenPrintf(20, 40, "2023.10.11");
 
+		Novice::ScreenPrintf(20, 60, "Go Merge");
 
-		Novice::ScreenPrintf(20, 60, "マージお願いします");
-
-		Novice::ScreenPrintf(20, 80, "プルせずに作業");
+		Novice::ScreenPrintf(20, 80, "I,m cat");
     
 		///
 		/// ↑描画処理ここまで
